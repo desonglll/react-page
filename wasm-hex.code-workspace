@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "react-page"
+		},
+		{
+			"path": "wasm-hex-rust"
+		}
+	],
+	"settings": {}
+}
