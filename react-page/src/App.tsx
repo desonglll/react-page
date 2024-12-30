@@ -43,6 +43,7 @@ function App() {
           <input type="text" />
           <button type="submit">Submit</button>
         </form>
+        <div>Hex Value: {hexValue}</div>
       </div>
     </>
   );
